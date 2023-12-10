@@ -3,7 +3,7 @@
   <ThingDef ParentName="OrganicProductBase">
     <defName>NovaCube_CubeeHoney</defName>
     <label>honey</label>
-    <description>NovaCube_CubeeHoney_description</description>
+    <description>NovaCube_CubeeHoney_descriptiontest</description>
     <possessionCount>10</possessionCount>
     <graphicData>
       <texPath>Things/Item/Resource/CubeeHoney</texPath>
